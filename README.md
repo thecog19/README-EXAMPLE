@@ -35,4 +35,5 @@ Then you could copy and paste your modied file into your project, by using the `
 
 ## Troubleshooting
 Q: I don't have git installed
+
 A: Reference [this documentation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
