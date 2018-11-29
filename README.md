@@ -4,7 +4,7 @@
 This is a project to create a basic template for solid readmes. The hope is that this will enable other developers to write good documentation as well as good code. It exists as a simple markdown file in a github repository. Anyone can download it and modify it. 
 
 ## Documentation 
-If there were any further documentation, it would be (linked here)[]
+If there were any further documentation, it would be [Linked here]()
 
 ## Setup Instructions
 We assume here you have installed software the can extract zip files, and also that you are working a linux based enviorment. If you do not have an utility for unzipping installed, you can install `unzip`, [reference here](https://askubuntu.com/questions/86849/how-to-unzip-a-zip-file-from-the-terminal).
